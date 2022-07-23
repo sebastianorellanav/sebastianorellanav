@@ -25,6 +25,8 @@
 <img align="left" alt="js" width="26px" src="https://www.jovenesprogramadores.cl/wp-content/uploads/2020/07/JavaScript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 
+<br />
+<br />
 
 ### Frameowrks:
 <!-- Vuejs -->
@@ -45,7 +47,8 @@
 <img align="left" alt="mysql" width="26px" src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" />
 
 
-
+<br />
+<br />
 
 ### Tools:
 <!-- Visual Studio -->
@@ -55,24 +58,15 @@
 <img align="left" alt="docker" width="26px" src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2013.png" />
 
 
+<br />
+<br />
+
 ### DBMS:
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="mysql" width="26px" src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" />
 
 
-### Frameworks:
 
-
-
-<img align="left" alt="HTML5" width="26px" src="" />
-
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 
