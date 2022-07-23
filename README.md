@@ -2,8 +2,6 @@
 
 ## I'm a Student and Developer
 
-===
-
 - :books: I'm currently studying Software Engineering at the University of Santiago de Chile
 - 🤓 I have worked on the assistantships of:
   * programming paradigms
