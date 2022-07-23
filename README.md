@@ -54,8 +54,8 @@
 <!-- Visual Studio -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="gitkraken" width="26px" src="[http://assets.stickpng.com/images/5847f989cef1014c0b5e48bf.png](https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png)" />
-<img align="left" alt="docker" width="26px" src="[https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2013.png](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png)" />
+<img align="left" alt="gitkraken" width="26px" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-mono-light-sq.png" />
+<img align="left" alt="docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 
 
 <br />
@@ -68,7 +68,8 @@
 
 
 
-
+<br />
+<br />
 
 
 
@@ -78,6 +79,7 @@
 
 
 
+[instagram]: https://www.instagram.com/sebaorellana__/
 
 
 
