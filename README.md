@@ -14,6 +14,7 @@
   * Frontend App Webs Developing
   * AWS Developing
 
+---
 
 ### Languages:
 <!-- Python -->
@@ -71,7 +72,7 @@
 <br />
 <br />
 
-
+---
 
 ### How to reach me:
 
