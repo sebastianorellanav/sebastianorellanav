@@ -75,11 +75,14 @@
 
 ### How to reach me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+
+[<img align="left" alt="codeSTACKr | Facenook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 
 
 
 [instagram]: https://www.instagram.com/sebaorellana__/
+[facebook]: https://www.facebook.com/sebastian.orellana.75286/
 
 
 
