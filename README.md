@@ -53,7 +53,7 @@
 <!-- Visual Studio -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="gitkraken" width="26px" src="https://www.google.cl/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Fcomics-y-fantasia%2Fscribblenauts%2Fgitkraken-logo-completo&psig=AOvVaw3CsvIwhGl16U9fRTLiV_rh&ust=1677950387358000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiF-LiiwP0CFQAAAAAdAAAAABAD" />
+<img align="left" alt="gitkraken" width="26px" src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-mono-light-sq.png" />
 <img align="left" alt="docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 
 
